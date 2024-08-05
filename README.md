@@ -11,11 +11,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Dynamic Shapes" width="400"/>
